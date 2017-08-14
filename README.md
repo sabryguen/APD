@@ -10,4 +10,4 @@ The Tasks in the win forms project are as follows:
 
 Two simple ones that log different thigs including the managed thread ID to demonstrate that the tasks do run on different threads.
 a further task that demonstrates a longer running task
-and a final one that intentially throws and exception to show that this is handled and caught as an AggregateException in the ActionManager class
+and a final one that intentionally throws and exception to show that this is caught and logged as an AggregateException in the ActionManager class
